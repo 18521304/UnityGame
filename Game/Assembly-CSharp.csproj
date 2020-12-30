@@ -111,6 +111,7 @@
     <Compile Include="Assets\EquipmentManager.cs" />
     <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\OptionsMenu.cs" />
+    <Compile Include="Assets\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\CharacterAnimator.cs" />
     <Compile Include="Assets\Scripts\CharacterCombat.cs" />
     <Compile Include="Assets\Scripts\Controllers\CameraController.cs" />
