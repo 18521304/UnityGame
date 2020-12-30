@@ -18,7 +18,7 @@ public class CameraController : MonoBehaviour
     public float pitch = 2f;
 
     public float yawSpeed = 100f;
-    private float yawInput = 0f;
+  //  private float yawInput = 0f;
     private float currentYaw = 0f;
 
     void Update()
